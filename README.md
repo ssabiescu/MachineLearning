@@ -1,6 +1,6 @@
 # ML Project - Supervised Learning
 
-![image](https://github.com/ssabiescu/asd/assets/156011844/3790fd94-4167-4e0b-bab3-38769002c816)
+![ai](https://github.com/ssabiescu/MachineLearning/assets/156011844/e6312803-c154-4266-9830-b3b05092343b)
 
 ## 1. **Linear Regression**
   ### Description
